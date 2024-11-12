@@ -1,0 +1,2 @@
+ library(readr)
+> cost_of_living_2020 <- read_csv("cost of living 2020.csv")
